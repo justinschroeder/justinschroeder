@@ -1,7 +1,7 @@
 - Hi, I’m Justin Schroeder!
 - I’m interested in how technology can continue to change the world we live in.
-- I’m currently learning Python, SQL, Machine Learning, Data Analysis, Data Visualization and Data Science.
-- I’m looking to find a role as a Data Analyst or Scientist working on projects that drive improvements and provide a positive impact.
+- I’m currently learning Python!
+- I’m looking to find a role using Python to analyze data or developing projects that drive improvements and provide a positive impact.
 - You can reach me at justin.schroeder3@gmail.com.
 
 <!---

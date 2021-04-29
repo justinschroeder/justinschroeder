@@ -1,6 +1,6 @@
 # Justin Schroeder
-- I’m interested in how technology can continue to change the world we live in.
-- I’m currently learning Python!
+- I’m interested building web pages and applications!
+- I’m currently learning Python and Javascript, as well as some HTML and CSS.
 - I’m looking to find a role using Python to develop databases and web applications that drive improvements and provide a positive impact.
 - You can reach me at justin.schroeder3@gmail.com.
 
